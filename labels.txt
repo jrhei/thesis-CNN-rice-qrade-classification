@@ -1,0 +1,4 @@
+0 broken
+1 chalky
+2 damaged
+3 discolored
